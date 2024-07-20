@@ -5,145 +5,55 @@ basics:
   name: "Shriniwas Sharma"
   label: "Data Scientist | Software Developer"
   email: "shriniwas_sharma@pm.me"
-  phone: "(403) 463-6054"
+  phone: "+31 6 12345678"
   summary: >
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac nisl nec nunc porttitor.
 
-
   profiles:
     - network: "GitHub"
-      username: "shriniwas-ds"
-      url: "https://github.com/shriniwas-ds"
+      username: "shriniwas26"
+      url: "https://github.com/shriniwas26"
+
     - network: "LinkedIn"
       username: "Shriniwas Sharma"
-      url: "www.linkedin.com/in/shriniwas"
+      url: "www.linkedin.com/in/shriniwas26"
 work:
-  - company: "PETRONAS"
-    position: "Petroleum Engineer"
-    website: "https://petronascanada.com"
-    startDate: "2022-10-03"
+  - company: "Maaind - AI for Wellbeing"
+    position: "Senior Software Engineer"
+    website: "https://maaind.com"
+    startDate: "2022-12-01"
     endDate: ""
-
-  - company: "Sinopec Canada"
-    position: "Senior Reservoir Engineer"
-    website: "https://sinopeccanada.com"
-    startDate: "2020-06-09"
-    endDate: "2022-08-30"
-    highlights:
-      - "Performed rate transient analysis in unconventional plays such as the Montney and Rock Creek to extract
-      reservoir characteristics, investigate well interference and reliably forecast well performance."
-      - "Built parametric models to determine optimum well spacing and optimize completion design in the Montney,
-      Duvernay and Rock Creek formations."
-      - "Created and optimized field development plans for several key conventional and unconventional plays
-      (Ellerslie, Rock Creek, Montney and Duvernay) yielding over two hundred locations which
-      have either been budgeted or added to the company’s long-term plan."
-      - "Ran various sensitivities on short-term and long-term field development plans for optimization purposes."
-      - "Provided technical input and recommendations in creating and maintaining the company’s capital budgets
-      and long-term development plans."
-      - "Work closely with the Reserves team and third-party evaluators to optimize undeveloped bookings
-      across different company assets and formations."
-      - "Represented the company at various subsurface meetings with the Montney Producers’ Group, presenting
-      innovative workflows to peers."
-      - "Built over two hundred type curves across the Montney, Duvernay, Mannville, Cardium and Rock Creek formations,
-      evaluated type well economics and project economics for development plans and deals."
-      - "Developed new and efficient workflows for evaluation and type curve generation that has eliminated ~95% of data preparation
-      steps and vastly improved project timelines."
-      - "Created a one-stop database in Tableau to monitor competitor activity in plays such as the Montney and Duvernay,
-      resulting in recommending modern and effective completion designs."
-      - "Prepared and presented seven divestment packages to executives - generated type curves and evaluated economics
-      for upside locations - potentially reducing the company’s asset retirement obligations (ARO) by over 14 million dollars."
-      - "Managed over $100,000 in engineering software, championing new software and databases that improved engineering workflows."
-      - "Stewarded company’s non-operational budget of 15 million dollars by performing subsurface and economic evaluations on
-       Independent Operation Notices and recommending projects that added significantly to the company’s free cash flow."
-      - "Mentored other engineers both locally and internationally (Beijing) in general subsurface evaluation techniques."
-
-  - company: "Sinopec Canada"
-    position: "Reservoir Engineer-in-Training"
-    website: "https://sinopeccanada.com"
-    startDate: "2014-06-09"
-    endDate: "2020-04-01"
-    highlights:
-      - "Created a workplan for evaluating all company assets for all company rights, ranked assets for development or
-      divestiture, and presented the workplan and results to upper management."
-      - "Generated condensate-gas ratios, H2S maps and calculated gas and condensate in place volumes for
-      company’s Montney asset."
-      - "Created a sour gas injection model in CMG IMEX to improve economics of sour oil restart and facilitate sour gas
-      egress of company’s high value oil plays; the model also predicted required surface pressures to inform compressor
-      design."
-      - "Built an economics sensitivities dashboard in Tableau that calculates the impact of changes in capital and/or
-      volumes in real-time when fed a base set of economic runs."
-      - "Optimized company’s conventional waterflood assets in Alberta, presented to third party evaluators,
-      resulting in an increase in reserves booking by ~700 thousand barrels."
-
-  - company: "Sinopec Canada"
-    position: "Exploitation Engineering Intern"
-    website: "https://sinopeccanada.com"
-    startDate: "2012-09-01"
-    endDate: "2013-08-30"
-    highlights:
-      - "Performed decline curve analysis on 100+ wells in Pembina and Carrot Creek and analyzed the effects of various
-      completions metrics on productivity."
-      - "Updated asset team on key industry activity including well licenses and pipeline approvals; monitored load fluid
-      recovery of company’s new drills."
+    highlights: >
+      - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      - Sed ac nisl nec nunc porttitor.
 
 education:
-  - institution: "University of Regina"
-    area: "Petroleum Systems Engineering"
-    studyType: "Bachelor"
-    startDate: "2009-05-01"
-    endDate: "2014-05-01"
-    gpa: "4.0"
+  - institution: "Eindhoven University of Technology"
+    area: "Computer Science and Engineering"
+    studyType: "Master"
+    startDate: "2016-09-01"
+    endDate: "2019-02-01"
 
 skills:
-  - name: "Reservoir Modeling"
+  - name: "Progamming Languages"
     keywords:
-      - "CMG IMEX"
-      - "WINPROP"
-      - "Harmony"
-      - "CMG CMOST"
-  - name: "Well Test Analysis"
-    keywords:
-      - "RTA"
-      - "PTA"
-      - "DFIT"
-      - "Interference Testing"
-      - "SWPM"
-  - name: "Development Planning/Economic Modeling"
-    keywords:
-      - "Mosaic"
-      - "VALNAV"
-      - "Enersight"
-  - name: "Reserves"
-    keywords:
-      - "Decline Curve Analysis"
-      - "Harmony"
-      - "Material Balance"
-  - name: "Reservoir Management"
-    keywords:
-      - "Water flood"
-  - name: "Type Curve Generation"
-    keywords:
-      - "Competitor Intelligence"
-      - "Completion Design"
+      - "Python"
+      - "JavaScript"
+      - "C"
+      - "Erlang"
+
   - name: "Data Science/Machine Learning"
     keywords:
       - "Python"
       - "SQL"
       - "Pandas"
-      - "sklearn"
-      - "Tensorflow"
-  - name: 'Data Analytics/Visualization'
-    keywords:
-      - "Tableau"
-      - "Spotfire"
-      - "Power BI"
+      - "Scikit-learn"
+      - "PyTorch"
 
 languages:
   - language: "English"
     fluency: "Native speaker"
-
-memberships:
-  - name: "Professional memberships"
-    keywords:
-      - "Association of Professional Engineers and Geoscientists of Alberta (APEGA)"
-      - "Society of Petroleum Engineers (SPE)"
+  - language: "Dutch"
+    fluency: "Conversational proficiency"
+  - language: "Hindi"
+    fluency: "Native speaker"
