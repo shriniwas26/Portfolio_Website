@@ -11,12 +11,12 @@ hide_last_modified: true
 
 1. Create a folder that would house all your document. The final contents of the folder would be:
   - app.py
-  - requirements.txt 
+  - requirements.txt
 
 2. The app.py file
-This file contains the python script to be executed. 
+This file contains the python script to be executed.
 
-3. The requirements.txt file 
+3. The requirements.txt file
 This is needed so that Streamlit knows what version of packages you used in your app. To know what version of, say, pandas you have installed, open command line and run: `pip show pandas`
 (show pic of requirements file)
 
@@ -26,5 +26,5 @@ This is needed so that Streamlit knows what version of packages you used in your
 
 6. Host the app online. Go to share.streamlit.io, connect to the repo and add the new app. Streamlit does the rest!
 
-https://ibiene-ds-weight-tracker-app-app-jc89ye.streamlitapp.com/
+https://shriniwas-ds-weight-tracker-app-app-jc89ye.streamlitapp.com/
 

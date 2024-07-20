@@ -9,7 +9,7 @@ tags: [AB Testing, Hypothesis Testing, Chi-Square, Python]
 hide_last_modified: true
 ---
 
-In this project, we apply Chi-Square Test For Insitemap: truedependence (a Hypothesis Test) to assess the performance of two types of mailers that were sent out to promote a new service! 
+In this project, we apply Chi-Square Test For Insitemap: truedependence (a Hypothesis Test) to assess the performance of two types of mailers that were sent out to promote a new service!
 
 ---
 
@@ -24,9 +24,9 @@ The client knows that customers who were contacted, signed up for the Delivery C
 
 ### Actions
 
-For this test, as it is focused on comparing the *rates* of two groups - we applied the Chi-Square Test For Independence.  
+For this test, as it is focused on comparing the *rates* of two groups - we applied the Chi-Square Test For Independence.
 
-**Full details of this test and the complete code for this project can be found in the Jupyter Notebook here: [Chi Square Test Notebook](https://github.com/ibiene-ds/chi-square-test)**
+**Full details of this test and the complete code for this project can be found in the Jupyter Notebook here: [Chi Square Test Notebook](https://github.com/shriniwas-ds/chi-square-test)**
 
 **Note:** Another option when comparing "rates" is a test known as the *Z-Test For Proportions*.  While, we could absolutely use this test here, we have chosen the Chi-Square Test For Independence because:
 
@@ -67,7 +67,7 @@ In other words - while we saw that the higher cost Mailer 2 had a higher signup 
 
 Without running this Hypothesis Test, the client may have concluded that they should always look to go with higher cost mailers - and from what we've seen in this test, that may not be a great decision.  It would result in them spending more, but not *necessarily* gaining any extra revenue as a result
 
-Our results here also do not say that there *definitely isn't a difference between the two mailers* - we are only advising that we should not make any rigid conclusions *at this point*.  
+Our results here also do not say that there *definitely isn't a difference between the two mailers* - we are only advising that we should not make any rigid conclusions *at this point*.
 
 Running more A/B Tests like this, gathering more data, and then re-running this test may provide us, and the client more insight!
 <br>

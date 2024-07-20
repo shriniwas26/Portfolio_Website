@@ -2,15 +2,15 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              Ibiene Obuoforibo
-  email:             ib.obuoforibo@outlook.com
+  name:              Shriniwas Sharma
+  email:             shriniwas_sharma@pm.me
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Ibiene is a Reservoir Engineer who loves **everything data**! At any given time, you can find her consuming fantasy novels or sci/fi tv-shows,
-    eating, singing or working out. She would like to play piano someday :)
-  
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac nisl nec nunc porttitor.
+
+
 
   # This photo will be used in the about section
   picture:
@@ -24,10 +24,10 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    email:            ib.obuoforibo@outlook.com
-    linkedin:         ibiene
-    github:           ibiene-ds
-    twitter:          IbieneO
+    email:            shriniwas_sharma@pm.me
+    linkedin:         shriniwas
+    github:           shriniwas-ds
+    twitter:          shriniwasO
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -66,15 +66,15 @@ author1:
 
 # Another author (optional)
 author2:
-  name:              <Ibiene> <Obuoforibo>
-  email:             <ib.obuoforibo@outlook.com>
+  name:              <shriniwas> <Obuoforibo>
+  email:             <shriniwas_sharma@pm.me>
   about:             |
-    Ibiene is a Petroleum Engineer and budding data scientist/machine learning engineer. She describes herself as a
-    curious learner and fitness geek. 
+    shriniwas is a Petroleum Engineer and budding data scientist/machine learning engineer. She describes herself as a
+    curious learner and fitness geek.
     Hobbies include consuming a ridiculous amount of fantasy novels and... Dreams? Play piano and sing simultaneously -
-    got one down, the other is going terribly. 
-  
+    got one down, the other is going terribly.
+
 
   picture:           https://placehold.it/128x128
-  twitter:           <IbieneO>
-  github:            <ibiene-ds>
+  twitter:           <shriniwasO>
+  github:            <shriniwas-ds>
