@@ -7,9 +7,7 @@ cover: true
 
 Welcome to my website!
 
-My name is **shriniwas** _(ee-bee-ay-nay)_. I am an Oil & Gas Engineer that loves data and problem-solving. This website is a technical journal (if you will) of *projects* I have completed, *technical concepts* I feel inclined to wax eloquent about,  and *tips/tricks* I have picked up along my journey.
-
-I hope you enjoy your visit!
+I am a data scientist with a passion for solving real-world problems using data. I have a strong background in statistics and machine learning, and I am always looking for new ways to apply these skills to make a positive impact on the world.
 
 
 ## Latest Projects
